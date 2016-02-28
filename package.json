@@ -1,0 +1,11 @@
+{
+  "name": "Stores API Mock",
+  "version": "0.0.1",
+  "description": "Mock implementation for Stores API",
+  "main":"app.js",
+  "dependencies": {
+    "express":"4.13.3",
+    "body-parser":"1.14.1",
+    "amokjs":"1.0.1"
+  }
+}

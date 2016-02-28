@@ -1,0 +1,105 @@
+{
+  "meta": {
+    "total": 5,
+    "count": 5,
+    "limit": 10,
+    "offset": 0
+  },
+  "stores": [
+    {
+      "id": 1001,
+      "name": "Bradford - Thornbury",
+      "type": "supermarket",
+      "region": "Yorkshire",
+      "telephone": "01234 567891",
+      "address": {
+        "line1": "Rushton Avenue",
+        "line2": "Thornbury",
+        "county": "West Yorkshire",
+        "city": "Bradford",
+        "postcode": "AB2 3CD",
+        "country": "United Kingdom"
+      },
+      "location": {
+        "latitude": 53.80138,
+        "longitude": -1.71048
+      }
+    },
+    {
+      "id": 1002,
+      "name": "Bradford - Mayo Avenue",
+      "type": "supermarket",
+      "region": "Yorkshire",
+      "telephone": "01234 567892",
+      "address": {
+        "line1": "110 Mayo Avenue",
+        "line2": "",
+        "county": "West Yorkshire",
+        "city": "Bradford",
+        "postcode": "BD5 8HP",
+        "country": "United Kingdom"
+      },
+      "location": {
+        "latitude": 53.7704010009766,
+        "longitude": -1.75777995586395
+      }
+    },
+    {
+      "id": 1003,
+      "name": "Petrol Station",
+      "type": "petrol",
+      "region": "Yorkshire",
+      "telephone": "01234 567893",
+      "address": {
+        "line1": "110 Mayo Avenue",
+        "line2": "",
+        "county": "West Yorkshire",
+        "city": "Bradford",
+        "postcode": "BD5 8HP",
+        "country": "United Kingdom"
+      },
+      "location": {
+        "latitude": 53.7704010009766,
+        "longitude": -1.75777995586395
+      }
+    },
+    {
+      "id": 1004,
+      "name": "Bradford - Westgate",
+      "type": "supermarket",
+      "region": "Yorkshire",
+      "telephone": "01234 567894",
+      "address": {
+        "line1": "John Street Market",
+        "line2": "Westgate",
+        "county": "West Yorkshire",
+        "city": "Bradford",
+        "postcode": "BD1 3SR",
+        "country": "United Kingdom"
+      },
+      "location": {
+        "latitude": 53.7963790893555,
+        "longitude": -1.75789999961853
+      }
+    },
+    {
+      "id": 1005,
+      "name": "Bradford - Victoria",
+      "type": "supermarket",
+      "region": "Yorkshire",
+      "telephone": "01234 567894",
+      "address": {
+        "line1": "Victoria Shopping Centre",
+        "line2": "Young Street",
+        "county": "West Yorkshire",
+        "city": "Bradford",
+        "postcode": "BD8 9TP",
+        "country": "United Kingdom"
+      },
+      "location": {
+        "latitude": 53.7974014282227,
+        "longitude": -1.7878999710083
+      }
+    }
+  ]
+}
